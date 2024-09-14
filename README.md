@@ -9,14 +9,13 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <p align="left">
 
 ### LANGUAGES
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 
 ### CLOUD
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
@@ -64,8 +63,10 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" width="36" height="36" alt="Spark" /></a>
+<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/databricks.com/fallback/transparent/theme/dark/h/256/w/256/icon" width="36" height="36" alt="Databricks" /></a>
 
 ### TOOLS
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img src="https://jmeter.apache.org/images/mstile-144x144.png" width="36" height="36" alt="Jmeter" /></a>
 <a href="https://locust.io/" target="_blank" rel="noreferrer"><img src="https://jeremyjeanson.gallerycdn.vsassets.io/extensions/jeremyjeanson/locust-extension/0.0.3/1639068418599/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Locust" /></a>
@@ -78,6 +79,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 
 ### IDE
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img src="https://cdn.brandfetch.io/databricks.com/fallback/transparent/theme/dark/h/256/w/256/icon" width="36" height="36" alt="Databricks" /></a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" width="36" height="36" alt="PyCharm" /></a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="36" height="36" alt="Databricks" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="36" height="36" alt="Jupyter" /></a>
 </p>
