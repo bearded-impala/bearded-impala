@@ -55,8 +55,8 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 
 ### OPERATING SYSTEMS
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Windows_11_logo.svg#/media/File:Windows_logo_-_2021.svg" width="36" height="36" alt="Windows" /></a>
-<a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg#/media/File:Apple_logo_white.svg" width="36" height="36" alt="macOS" /></a>
+<a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" width="36" height="36" alt="Windows" /></a>
+<a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" width="36" height="36" alt="macOS" /></a>
 
 ### IDE
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
