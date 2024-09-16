@@ -19,7 +19,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 
 ### CLOUD
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img title="Google Cloud" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img title="Amazon Web Services" src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img title="Amazon Web Services" src="https://wavicledata.com/wp-content/uploads/2022/08/AWS-Circle-Logo.png" width="36" height="36" alt="Amazon Web Services" /></a>
 
 ### FRONTEND
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
