@@ -19,7 +19,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 
 ### CLOUD
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img title="Google Cloud" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img title="Amazon Web Services" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img title="Amazon Web Services" src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" width="36" height="36" alt="Amazon Web Services" /></a>
 
 ### FRONTEND
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -33,7 +33,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img title="Babel" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 
 ### BACKEND AND DATABASE
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img title="Flask" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img title="Flask" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615396992718/UBhOk2Nwz.jpeg" width="36" height="36" alt="Flask" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img title="Spring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" width="36" height="36" alt="Spring" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="Fast API" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img title="GraphQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
