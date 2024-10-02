@@ -30,7 +30,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img title="Redux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img title="Webpack" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img title="Sass" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img title="Babel" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img title="Babel" src="https://w7.pngwing.com/pngs/175/545/png-transparent-webpack-babel-source-to-source-compiler-javascript-npm-js-angle-text-logo.png" width="36" height="36" alt="Babel" /></a>
 
 ### BACKEND AND DATABASE
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img title="Flask" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615396992718/UBhOk2Nwz.jpeg" width="36" height="36" alt="Flask" /></a>
@@ -72,13 +72,11 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://locust.io/" target="_blank" rel="noreferrer"><img title="Locust" src="https://jeremyjeanson.gallerycdn.vsassets.io/extensions/jeremyjeanson/locust-extension/0.0.3/1639068418599/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Locust" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img title="Jira" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width="36" height="36" alt="Jira" /></a>
 
-### OPERATING SYSTEMS
+### OPERATING SYSTEMS & IDEs
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" width="36" height="36" alt="Windows" /></a>
 <a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img title="macOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" width="36" height="36" alt="macOS" /></a>
-
-### IDE
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img title="VSCode" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VSCode" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VSCode" /></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img title="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" width="36" height="36" alt="PyCharm" /></a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img title="Eclipse" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="36" height="36" alt="Eclipse" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img title="Jupyter" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="36" height="36" alt="Jupyter" /></a>
