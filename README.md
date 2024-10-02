@@ -5,6 +5,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 🤝 I'm looking to collaborate on: Anything that lets me jump onto the GenAI bandwagon<br>
 🌱 I'm learning: NLP📝 and LLM🧠<br>
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=siddheshmr83)
+
 ✨ In my free time: I love to watch movies, lift weights, babysit nephews, review food, barbeque, cook elaborate meals, garden, free up my phone storage, or wonder if anything will ever live up to the disappointment of Season 8.
 
 <p align="left">
