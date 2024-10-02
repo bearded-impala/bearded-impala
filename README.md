@@ -68,12 +68,6 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img title="Spark" src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" width="36" height="36" alt="Spark" /></a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img title="Databricks" src="https://cdn.brandfetch.io/databricks.com/fallback/transparent/theme/dark/h/256/w/256/icon" width="36" height="36" alt="Databricks" /></a>
 
-### TOOLS
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img title="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"><img title="Jmeter" src="https://jmeter.apache.org/images/mstile-144x144.png" width="36" height="36" alt="Jmeter" /></a>
-<a href="https://locust.io/" target="_blank" rel="noreferrer"><img title="Locust" src="https://jeremyjeanson.gallerycdn.vsassets.io/extensions/jeremyjeanson/locust-extension/0.0.3/1639068418599/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Locust" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img title="Jira" src="https://static-00.iconduck.com/assets.00/jira-icon-512x512-z7na7dot.png" width="36" height="36" alt="Jira" /></a>
-
 ### OPERATING SYSTEMS & IDEs
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" width="36" height="36" alt="Windows" /></a>
