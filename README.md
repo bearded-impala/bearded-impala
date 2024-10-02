@@ -83,3 +83,5 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img title="Eclipse" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="36" height="36" alt="Eclipse" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img title="Jupyter" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="36" height="36" alt="Jupyter" /></a>
 </p>
+
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=siddheshmr83)
