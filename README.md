@@ -8,6 +8,7 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=siddheshmr83)
 <p align="left">
+
 ### LANGUAGES
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img title="Python" title="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img title="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
