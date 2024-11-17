@@ -20,36 +20,6 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img title="Google Cloud" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img title="Amazon Web Services" src="https://wavicledata.com/wp-content/uploads/2022/08/AWS-Circle-Logo.png" width="36" height="36" alt="Amazon Web Services" /></a>
 
-### FRONTEND
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img title="HTML5" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img title="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img title="Bootstrap" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img title="Material UI" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img title="Redux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img title="Webpack" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img title="Sass" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img title="Babel" src="https://w7.pngwing.com/pngs/175/545/png-transparent-webpack-babel-source-to-source-compiler-javascript-npm-js-angle-text-logo.png" width="36" height="36" alt="Babel" /></a>
-
-### BACKEND AND DATABASE
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img title="Flask" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615396992718/UBhOk2Nwz.jpeg" width="36" height="36" alt="Flask" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img title="Spring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" width="36" height="36" alt="Spring" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="Fast API" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img title="GraphQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-
-### BACKEND AND DATABASE
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img title="PostgreSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
-### TOOLS
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="Git" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img title="Kubernetes" src="https://raw.githubusercontent.com/kubernetes/kubernetes/f0f7ff989a948389247e628c4c5a43e915f51daa/logo/logo.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img title="Terraform" src="https://www.svgrepo.com/show/374122/terraform.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img title="Jenkins" src="https://mirror.xmission.com/jenkins/art/jenkins-logo/headshot.svg" width="36" height="36" alt="Jenkins" /></a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="36" height="36" alt="Swagger" /></a>
-
 ### DATA & MACHINE LEARNING
 <a href="https://anaconda.cloud/" target="_blank" rel="noreferrer"><img title="anaconda" src="https://img.icons8.com/fluent/600/000000/anaconda--v2.png" width="36" height="36" alt="anaconda" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img title="pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png" width="36" height="36" alt="pandas" /></a>
@@ -61,6 +31,31 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://h2o.ai/" target="_blank" rel="noreferrer"><img title="h2o" src="https://docs.h2o.ai/assets/images/h2o_logo.svg" width="36" height="36" alt="h2o" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img title="PyTorch" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img title="TensorFlow" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+
+### BACKEND
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img title="Flask" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615396992718/UBhOk2Nwz.jpeg" width="36" height="36" alt="Flask" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img title="Spring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" width="36" height="36" alt="Spring" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="Fast API" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img title="GraphQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+
+### DATABASE
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img title="PostgreSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+
+### FRONTEND
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img title="React" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img title="HTML5" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img title="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img title="Redux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+
+### TOOLS
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="Git" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img title="Kubernetes" src="https://raw.githubusercontent.com/kubernetes/kubernetes/f0f7ff989a948389247e628c4c5a43e915f51daa/logo/logo.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img title="Terraform" src="https://www.svgrepo.com/show/374122/terraform.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img title="Jenkins" src="https://mirror.xmission.com/jenkins/art/jenkins-logo/headshot.svg" width="36" height="36" alt="Jenkins" /></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="36" height="36" alt="Swagger" /></a>
 
 ### OPERATING SYSTEMS & IDEs
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
