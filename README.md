@@ -36,11 +36,12 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img title="Spring" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png" width="36" height="36" alt="Spring" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img title="Fast API" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img title="GraphQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img title="NodeJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="36" height="36" alt="Swagger" /></a>
+
+### BACKEND AND DATABASE
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img title="MySQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img title="PostgreSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="36" height="36" alt="Swagger" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
 ### DEVOPS
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img title="Git" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -68,7 +69,5 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" width="36" height="36" alt="Windows" /></a>
 <a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img title="macOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" width="36" height="36" alt="macOS" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VSCode" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img title="PyCharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" width="36" height="36" alt="PyCharm" /></a>
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img title="Eclipse" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="36" height="36" alt="Eclipse" /></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img title="Jupyter" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="36" height="36" alt="Jupyter" /></a>
 </p>
