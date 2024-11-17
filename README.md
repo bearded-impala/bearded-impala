@@ -62,8 +62,6 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://h2o.ai/" target="_blank" rel="noreferrer"><img title="h2o" src="https://docs.h2o.ai/assets/images/h2o_logo.svg" width="36" height="36" alt="h2o" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img title="PyTorch" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img title="TensorFlow" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img title="Spark" src="https://w7.pngwing.com/pngs/1/687/png-transparent-apache-spark-apache-http-server-scala-apache-software-foundation-data-processing-others-miscellaneous-text-orange.png" width="36" height="36" alt="Spark" /></a>
-<a href="https://www.databricks.com/" target="_blank" rel="noreferrer"><img title="Databricks" src="https://cdn.brandfetch.io/databricks.com/fallback/transparent/theme/dark/h/256/w/256/icon" width="36" height="36" alt="Databricks" /></a>
 
 ### OPERATING SYSTEMS & IDEs
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
