@@ -58,11 +58,4 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img title="Terraform" src="https://www.svgrepo.com/show/374122/terraform.svg" width="36" height="36" alt="Terraform" /></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img title="Jenkins" src="https://mirror.xmission.com/jenkins/art/jenkins-logo/headshot.svg" width="36" height="36" alt="Jenkins" /></a>
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="36" height="36" alt="Swagger" /></a>
-
-### OPERATING SYSTEMS & IDEs
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img title="Linux" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank" rel="noreferrer"><img title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/1024px-Windows_logo_-_2021.svg.png" width="36" height="36" alt="Windows" /></a>
-<a href="https://www.apple.com/macos/sonoma/" target="_blank" rel="noreferrer"><img title="macOS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" width="36" height="36" alt="macOS" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img title="VSCode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VSCode" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img title="Jupyter" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" width="36" height="36" alt="Jupyter" /></a>
 </p>
