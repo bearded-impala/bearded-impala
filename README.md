@@ -26,8 +26,6 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://anaconda.cloud/" target="_blank" rel="noreferrer"><img title="anaconda" src="https://img.icons8.com/fluent/600/000000/anaconda--v2.png" width="36" height="36" alt="anaconda" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img title="pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png" width="36" height="36" alt="pandas" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img title="NumPy" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="36" height="36" alt="NumPy" /></a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"><img title="plotly" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSSkZvKzlIRJVwFNMN8PAJif0oYRuziGiPdA&s" width="36" height="36" alt="plotly" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img title="matplotlib" src="https://matplotlib.org/_static/images/documentation.svg" width="36" height="36" alt="matplotlib" /></a>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img title="scikit-learn" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3ioErrXCaT2yZgsMaefs8irg9dRTWVk882Q&s" width="36" height="36" alt="scikit-learn" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img title="keras" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="36" height="36" alt="keras" /></a>
 <a href="https://h2o.ai/" target="_blank" rel="noreferrer"><img title="h2o" src="https://docs.h2o.ai/assets/images/h2o_logo.svg" width="36" height="36" alt="h2o" /></a>
@@ -56,6 +54,4 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img title="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img title="Kubernetes" src="https://raw.githubusercontent.com/kubernetes/kubernetes/f0f7ff989a948389247e628c4c5a43e915f51daa/logo/logo.svg" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img title="Terraform" src="https://www.svgrepo.com/show/374122/terraform.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img title="Jenkins" src="https://mirror.xmission.com/jenkins/art/jenkins-logo/headshot.svg" width="36" height="36" alt="Jenkins" /></a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img title="Swagger" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="36" height="36" alt="Swagger" /></a>
 </p>
