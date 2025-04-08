@@ -1,10 +1,9 @@
 # Hey there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddhesh More <a href="https://www.linkedin.com/in/moresiddhesh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img title="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@moresiddhesh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img title="Medium" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
 
-A Software Engineer & Data Scientist passionate about learning and building solutions — and a bit obsessed with making them flawless, reliable, and performant.<br>
-💻 I'm working on: Exploring ML models🤖 and keeping up with the cloud☁️<br>
-🤝 I'm looking to collaborate on: Anything that lets me jump onto the GenAI bandwagon<br>
-🌱 I'm learning: NLP📝 and LLM🧠 <br>
-✨ In my free time: I love to watch movies, lift weights, babysit nephews, hike, review food, barbeque, cook elaborate meals, garden, free up my phone storage, or wonder if anything will ever live up to the disappointment of Season 8.
+A Software Engineer passionate about AI and building flawless, reliable, and performant solutions.<br>
+💻 I'm working on applications of Multi-Agent🤖 Systems<br>
+🤝 I'm looking to collaborate on Anything that lets me dive deep into GenAI🧠<br>
+✨ In my free time, I love to watch movies, lift weights, babysit nephews, hike, review food, barbeque, cook elaborate meals, garden, free up my phone storage, or wonder if anything will ever live up to the disappointment of Season 8.
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=bearded_impala)
 <p align="left">
