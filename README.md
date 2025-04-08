@@ -13,9 +13,6 @@ A Software Engineer & Data Scientist passionate about learning and building solu
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img title="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img title="Bash" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" /></a>
-<!--
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img title="R" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
--->
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img title="Google Cloud" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img title="Amazon Web Services" src="https://wavicledata.com/wp-content/uploads/2022/08/AWS-Circle-Logo.png" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://anaconda.cloud/" target="_blank" rel="noreferrer"><img title="anaconda" src="https://img.icons8.com/fluent/600/000000/anaconda--v2.png" width="36" height="36" alt="anaconda" /></a>
