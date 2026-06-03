@@ -3,7 +3,7 @@
 A Software Engineer passionate about AI and building flawless, reliable, and performant solutions.<br>
 💻 I'm working on applications of Multi-Agent🤖 Systems<br>
 🤝 I'm looking to collaborate on Anything that lets me dive deep into GenAI🧠<br>
-✨ In my free time, I love to watch movies, lift weights, babysit nephews, hike, review food, barbeque, cook elaborate meals, free up my phone storage, and wonder if anything will ever live up to the disappointment of Season 8.
+✨ In my free time, I love to watch movies, lift weights, babysit nephews, hike, review food, cook elaborate meals, free up my phone storage, and wonder if anything will ever live up to the disappointment of Season 8.
 
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=bearded_impala)
 <p align="left">
